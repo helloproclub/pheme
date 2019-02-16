@@ -17,10 +17,6 @@ module.exports = {
       label: 'About Proclub Press',
       path: '/pages/about'
     },
-    {
-      label: 'Contacts',
-      path: '/pages/contacts'
-    }
   ],
   author: {
     name: 'Proclub Telkom University',
@@ -31,7 +27,7 @@ module.exports = {
       twitter: 'helloproclub',
       github: 'helloproclub',
       facebook: 'helloproclub',
-      rss: '#',
+      rss: 'rss.xml',
     }
   }
 };
