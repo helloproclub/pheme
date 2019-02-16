@@ -1,7 +1,7 @@
 {
-  "version": "3.0.0",
-  "name": "gatsby-starter-lumen",
-  "description": "A minimal, lightweight and mobile-first starter for creating blazing-fast static blogs",
+  "version": "1.0.0",
+  "name": "pheme",
+  "description": "A spirit of rumour, report, and gossip. The Press Release engine of Proclub Telkom University. Powered by Lumen (Gatsby)",
   "main": "n/a",
   "scripts": {
     "develop": "yarn run clean && gatsby develop",
@@ -15,26 +15,15 @@
     "test:coverage": "jest --coverage --config ./tests/jest-config.js",
     "test:watch": "jest --watch --config ./tests/jest-config.js"
   },
-  "repository": "https://github.com/alxshelepenok/gatsby-starter-lumen",
-  "author": "Alexander Shelepenok <alxshelepenok@gmail.com>",
+  "repository": "https://github.com/helloproclub/pheme",
+  "author": "Wisnu Adi Nurcahyo <wisn.adn@gmail.com>",
   "license": "MIT",
   "keywords": [
-    "gatsby",
-    "graphql",
-    "netlify",
-    "netlify-cms",
-    "pagination",
-    "categories",
-    "tags",
-    "prismjs",
-    "static",
-    "lost",
-    "blog",
-    "minimal",
-    "react",
-    "theme",
-    "starter",
-    "disqus"
+    "proclub",
+    "telkom",
+    "university",
+    "press",
+    "release"
   ],
   "dependencies": {
     "classnames": "^2.2.6",

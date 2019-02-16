@@ -1,38 +1,37 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  url: 'https://press.proclub.id',
+  title: 'Proclub Press',
+  subtitle: 'Press release for Public.',
+  copyright: '© 2019, Proclub Telkom University. All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-134590878-1',
   menu: [
     {
-      label: 'Articles',
+      label: 'Press Release',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'About Proclub Press',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'Contacts',
       path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Proclub Telkom University',
+    photo: '/proclub.png',
+    bio: 'Dream. Think. Code. Win.',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'helloproclub@gmail.com',
+      twitter: 'helloproclub',
+      github: 'helloproclub',
+      facebook: 'helloproclub',
       rss: '#',
-      vkontakte: '#'
     }
   }
 };
